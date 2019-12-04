@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://ghost.hoshii.id",
+    "apiUrl": "https://blog.hoshii.id",
     "contentApiKey": "bbc51ddc0c562d783ca91b99cf"
   },
   "production": {
-    "apiUrl": "https://ghost.hoshii.id",
+    "apiUrl": "https://blog.hoshii.id",
     "contentApiKey": "bbc51ddc0c562d783ca91b99cf"
   }
 }
